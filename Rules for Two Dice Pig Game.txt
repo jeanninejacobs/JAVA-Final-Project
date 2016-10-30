@@ -1,0 +1,8 @@
+Rules for Two Dice Pig Game
+Each turn, a player repeatedly rolls two dice until either a 1 is rolled or the player decides to "hold":
+* If neither shows a 1, their sum is added to the turn total. Player can hold or roll again.
+* If a double is rolled, the point total is added to the turn total as with any roll but the player is obligated to roll again.
+* If a single 1 is rolled, the player scores nothing and the turn ends.
+* If two 1s are rolled, the player’s entire score is lost, and the turn ends.
+The first player to score 100 or more points wins
+
